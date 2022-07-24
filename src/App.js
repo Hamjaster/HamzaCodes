@@ -38,8 +38,8 @@ function App() {
     <>
       <div id="loading"></div>
       <Navbar modeIcon={modeIcon} toggleMode={toggleMode} mode={mode} />
-
-      <Routes>
+      {/* <Home mode = {mode}/> */}
+      <Routes basename = "/HamzaCodes">
         <Route exact path="/" element={<Home mode={mode} />} />
         <Route exact path="/projects" element={<Projects />} />
 
