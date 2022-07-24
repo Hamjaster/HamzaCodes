@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HamzaCodes/static/css/main.0aadeb17.css",
-    "main.js": "/HamzaCodes/static/js/main.e339e01f.js",
+    "main.js": "/HamzaCodes/static/js/main.864e248d.js",
     "static/js/787.4c026eef.chunk.js": "/HamzaCodes/static/js/787.4c026eef.chunk.js",
     "static/media/converter.png": "/HamzaCodes/static/media/converter.f11c36b4002236d6711a.png",
     "static/media/to-do.png": "/HamzaCodes/static/media/to-do.f852aea350615416d8a7.png",
@@ -24,11 +24,11 @@
     "static/media/hamza.png": "/HamzaCodes/static/media/hamza.5c33f00096ee2d607541.png",
     "index.html": "/HamzaCodes/index.html",
     "main.0aadeb17.css.map": "/HamzaCodes/static/css/main.0aadeb17.css.map",
-    "main.e339e01f.js.map": "/HamzaCodes/static/js/main.e339e01f.js.map",
+    "main.864e248d.js.map": "/HamzaCodes/static/js/main.864e248d.js.map",
     "787.4c026eef.chunk.js.map": "/HamzaCodes/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0aadeb17.css",
-    "static/js/main.e339e01f.js"
+    "static/js/main.864e248d.js"
   ]
 }
