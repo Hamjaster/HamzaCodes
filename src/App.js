@@ -12,8 +12,8 @@ import "./App.css";
 // import Blogs from "./components/Blogs";
 function App() {
   const [mode, setmode] = useState("light");
-
   const [modeIcon, setmodeIcon] = useState(moonI);
+
   useEffect(() => {
     window.addEventListener("load", function () {
       document.getElementById("loading").style.display = "none";
