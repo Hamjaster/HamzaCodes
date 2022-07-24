@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/HamzaCodes/static/css/main.0aadeb17.css",
+    "main.js": "/HamzaCodes/static/js/main.e339e01f.js",
+    "static/js/787.4c026eef.chunk.js": "/HamzaCodes/static/js/787.4c026eef.chunk.js",
+    "static/media/converter.png": "/HamzaCodes/static/media/converter.f11c36b4002236d6711a.png",
+    "static/media/to-do.png": "/HamzaCodes/static/media/to-do.f852aea350615416d8a7.png",
+    "static/media/piano.png": "/HamzaCodes/static/media/piano.3f27cb39e6573b0b430a.png",
+    "static/media/calculator.png": "/HamzaCodes/static/media/calculator.6fa5be5baa5f324847fd.png",
+    "static/media/stopwatch.png": "/HamzaCodes/static/media/stopwatch.b677f6725fe36e08176d.png",
+    "static/media/photo10.png": "/HamzaCodes/static/media/photo10.5dc46c67066734c8945c.png",
+    "static/media/final.gif": "/HamzaCodes/static/media/final.cf8d6bcbcf95dc9dddf2.gif",
+    "static/media/map.png": "/HamzaCodes/static/media/map.8d6b8e411d44908428bb.png",
+    "static/media/Image1.png": "/HamzaCodes/static/media/Image1.8d7a54ba7adc6848f240.png",
+    "static/media/bootstrap.png": "/HamzaCodes/static/media/bootstrap.8fcb1604b91d57db451a.png",
+    "static/media/twitter.png": "/HamzaCodes/static/media/twitter.82291a6be4ff3dfd809d.png",
+    "static/media/react.png": "/HamzaCodes/static/media/react.7c4ede5e4aa21cb90318.png",
+    "static/media/web.png": "/HamzaCodes/static/media/web.f253faa5a66ad0d94aca.png",
+    "static/media/python.png": "/HamzaCodes/static/media/python.585d1bbc26feef691f6c.png",
+    "static/media/insta.png": "/HamzaCodes/static/media/insta.e4caeb17fc925185337c.png",
+    "static/media/github.png": "/HamzaCodes/static/media/github.ed40595474a8be57a4e0.png",
+    "static/media/bullet2.png": "/HamzaCodes/static/media/bullet2.d06ba0f41c4bc76b8520.png",
+    "static/media/night.png": "/HamzaCodes/static/media/night.eb635170af3e850fef0c.png",
+    "static/media/hamza.png": "/HamzaCodes/static/media/hamza.5c33f00096ee2d607541.png",
+    "index.html": "/HamzaCodes/index.html",
+    "main.0aadeb17.css.map": "/HamzaCodes/static/css/main.0aadeb17.css.map",
+    "main.e339e01f.js.map": "/HamzaCodes/static/js/main.e339e01f.js.map",
+    "787.4c026eef.chunk.js.map": "/HamzaCodes/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aadeb17.css",
+    "static/js/main.e339e01f.js"
+  ]
+}
