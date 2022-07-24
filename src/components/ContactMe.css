@@ -1,0 +1,95 @@
+
+.animated-btn2{
+    position: relative;
+    overflow: hidden;
+
+    padding: 8px 12px !important;
+    transition: 1s all !important; 
+    color: #0d6efd !important;
+    border-radius: 7px;
+    background: none;
+    z-index: 2;
+    border: 1px solid #0d6efd;
+}
+
+.animated-btn2::after {
+    position: absolute;
+    content: "";
+    background: #0d6efd;
+    width: 100%;
+    height: 0%;
+    top: 42px;
+    left: 0px;
+    border-radius: 50% 50% 0 0;
+    transition: 0.5s all;
+    z-index: 1;
+}
+.animated-btn2:hover::after{
+    height: 180% !important;
+    top: -32px !important;
+    z-index: -1;
+    
+    
+}
+.animated-btn2:hover{
+    color: white !important;
+}
+
+.form-control,.form-control:active,.form-control:focus,.form-control:checked{
+    border: none;
+    border-radius: 0%;
+    /* background: #2056a7d0 !important; */
+    /* display: none; */
+     outline: none !important;
+    /* color: white !important; */
+    
+}
+.form-control:focus{
+    box-shadow: none;
+    border-color:none;
+    /* border-bottom: #0d6efd; */
+    
+}
+.form-label{
+    position: relative;
+    width: 100%;
+}
+.form-label::after{
+    position: absolute;
+    content: "";
+    width: 0%;
+    /* height:1px; */
+    border-bottom:3px solid #0d6efd ;
+    background: #0d6efd;
+    bottom: -47px;
+    left: 0;
+    transition: all 0.5s;
+}
+
+.form-control:focus + .form-label::after{
+width: 100%;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #468df8 !important;
+    opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #468df8 !important;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+    color: #468df8 !important;
+}
+
+
+@media only screen and (max-width: 855px)  {
+
+.contact{
+    width: 95%;
+}
+.location{
+    width: 100%;
+}
+
+}

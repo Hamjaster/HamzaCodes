@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       .container{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: rgb(122, 122, 122);
+        color: aliceblue;
+        box-sizing: border-box;
+       }
+       .img{
+        width: 45.6rem;
+    /* height: 55.9rem; */
+    filter: drop-shadow(0 1.6rem 1.6rem rgba(51,51,51,.25));
+       }
+      .img:after {
+    content: "";
+    position: absolute;
+    top: -1.9rem;
+    left: -2.2rem;
+    border-top: 9px solid #0fb;
+    border-left: 9px solid #0fb;
+    height: 53.2rem;
+    width: 43.1rem;
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="img">
+
+            <img  width="440px" src="./components/Image2.jpg" alt="" srcset="">
+        </div>
+    <!-- <h1 class="img">fdgf</h1> -->
+</div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+.desc{
+    font-size: 1.4rem;
+}p{
+    
+    font-size: 1.4rem;
+}
+.list{
+    
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.main{
+    font-size: 1.2rem;
+}
+.head{
+font-size: 2rem;
+font-weight: 600;
+
+}
+
+.btn-primary {
+    background-color: green !important;
+    border-color: green !important;
+  }
+  .btn-primary:hover,
+  .btn-primary:active,
+  .btn-primary:visited,
+  .btn-primary:focus,
+  .btn-primary:active:focus {
+    background-color: darkgreen!important;
+    border-color: darkgreen !important;
+  }
+  
+  .btn-primary:focus,
+  .btn-primary:active,
+  .btn-primary:visited,
+  .btn-primary:focus,
+  .btn-primary:active:focus {
+    box-shadow: 0 0 0 0.2rem darkgreen;
+  }
+
+footer{
+    margin-top: 160px;
+}
